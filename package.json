@@ -1,0 +1,8 @@
+{
+  "name": "6-TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nettonucci/6-TypeScript.git",
+  "author": "Netto Nucci <nettonucci@gmail.com>",
+  "license": "MIT"
+}
